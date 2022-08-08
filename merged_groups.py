@@ -11,9 +11,10 @@ DISTRIBUTING THIS SOFTWARE OR ITS DERIVATIVES.
 
  
 Stuff to do:
+ - Remove import modules not used
  - Adopt known methods to handle auth token near expiration
- - Timestamp Log entries
-
+ - Implement a proper logging method
+ - Address paging for calls which might excede 100 records (get course users)
 
 
 """
