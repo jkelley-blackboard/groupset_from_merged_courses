@@ -18,3 +18,6 @@ Functional Logic:
    - Get memberships in groups in set
    - Compare to course roster
    - Delete and Create group members based on roster
+
+
+Minimum Privilege and entitlement mapping in the properties file
